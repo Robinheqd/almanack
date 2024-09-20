@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '3.5.16'
+ruby '3.1.6'
 
 gem 'almanack'
